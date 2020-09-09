@@ -1,1 +1,3 @@
 What even is going on?
+I'll tell you what. The instructions are out of whack. I think step 5 was supposed to be before step 4. 
+Thats the only way I got anything to work.
